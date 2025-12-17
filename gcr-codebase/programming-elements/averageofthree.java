@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class AverageOfThree {
+class averageof three{
     public static void main(String[] args) {
 
         // Create Scanner object to take input
