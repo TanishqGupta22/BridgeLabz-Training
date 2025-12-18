@@ -1,29 +1,29 @@
 import java.util.Scanner;
 
-class IntOperations {
+class DoubleIntOperations {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
         // Taking input values
         System.out.print("Enter value of a: ");
-        int a = sc.nextInt();
+        double a = sc.nextDouble();
 
         System.out.print("Enter value of b: ");
-        int b = sc.nextInt();
+        double b = sc.nextDouble();
 
         System.out.print("Enter value of c: ");
-        int c = sc.nextInt();
+        double c = sc.nextDouble();
 
-        // Integer operations
-        int result1 = a + b * c;   // multiplication first
-        int result2 = a * b + c;   // multiplication first
-        int result3 = c + a / b;   // division first
-        int result4 = a % b + c;   // modulus first
+        // Double operations
+        double result1 = a + b * c;
+        double result2 = a * b + c;
+        double result3 = c + a / b;
+        double result4 = a % b + c;
 
         // Display results
         System.out.println(
-            "The results of Int Operations are " +
+            "The results of Double Operations are " +
             result1 + ", " + result2 + ", " +
             result3 + ", and " + result4
         );
