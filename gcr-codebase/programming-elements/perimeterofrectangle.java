@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class perimeterofrectangle{
+class PerimeterofRectangle{
     public static void main(String[] args) {
 
         // Create Scanner object to take input from user

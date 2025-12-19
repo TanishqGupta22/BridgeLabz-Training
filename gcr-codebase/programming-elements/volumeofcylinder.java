@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class volumeofcylinder{
+class VolumeofCylinder{
     
     public static void main(String[] args) {
 

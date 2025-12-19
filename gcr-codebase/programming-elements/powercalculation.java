@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class powercalculation{
+class PowerCalculation{
     public static void main(String[] args) {
 
         // Create Scanner object to take input from user
