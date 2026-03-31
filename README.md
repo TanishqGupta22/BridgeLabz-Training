@@ -41,18 +41,41 @@ Command Line (Git Bash / PowerShell)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 📂 Repository Structure
 
-```text
+
+
+```
 BridgeLabz-Training
+│
+├── main
+│   └── README.md
+│
 ├── core-java-practice
 │   ├── gcr-codebase
-│   │   ├── programming-elements
-│   │   ├── control-flow
-│   │   └── arrays
-│   ├── scenario-based
-│   └── leet-code-codebase
+│   │   ├── programming_elements
+│   │   ├── control_flows
+│   │   ├── arrays
+│   │   ├── strings
+│   │   ├── methods
+│   │   └── extra
+│   │
+│   ├── leetcode-codebase
+│   └── scenario-base
+│       ├── Maya BMI Fitness Tracker
+│       ├── Coffee Counter Chronicles
+│       ├── LexicalTwist
+│       └── Flip Key
 │
-├── Eclipse IDE
-└── Visual Studio
+├── oops-practice
+├── dsa-practice
+├── collection-practice
+├── io-practice
+├── java8-practice
+├── designing-practice
+├── multi-threading-practice
+├── DBMS-practice
+└── review
+```
+
 ```
 
 
