@@ -78,7 +78,18 @@ BridgeLabz-Training
 
 ```
 
+---
 
+## 🔗 Direct Folder Links
+- Core Java Practice  
+- OOPS Practice  
+- DSA Practice  
+- Collection Practice  
+- IO Practice  
+- Java 8 Practice  
+- Review  
+
+---
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 📅 Day-by-Day Learning & Commit Log
 
@@ -149,5 +160,84 @@ here's the link: https://github.com/TanishqGupta22/BridgeLabz-Training/tree/core
  here's the link :https://github.com/TanishqGupta22/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Daily Progress Log
+
+### Week 00 - Setup
+- Installed Eclipse IDE  
+- Initialized Git repository  
+- Solved basic Java problems  
+
+---
+
+### Week 01 - Core Programming
+- Programming Elements  
+- Control Flow  
+- Arrays & Strings  
+- Methods & Built-in Functions  
+
+---
+
+### Week 02 - OOPS
+- Classes & Objects  
+- Keywords (this, static, final)  
+- Object Modeling  
+- Inheritance, Polymorphism, Abstraction  
+
+---
+
+### Week 03 - DSA
+- Linked List  
+- Stack, Queue, HashMaps  
+- Sorting Algorithms  
+- Searching (Linear & Binary)  
+- Algorithm Analysis  
+
+---
+
+### Week 04 - Collections & Streams
+- Generics  
+- Collections Framework  
+- Streams  
+- Exception Handling  
+- Regex, JUnit, Reflection, Annotations  
+
+---
+
+### Week 05 - IO Programming
+- CSV Handling  
+- JSON Handling  
+- Address Book Project  
+
+---
+
+### Week 06 - Java 8
+- Functional Interfaces  
+- Lambda Expressions  
+- Stream API  
+- Scenario-based Problems  
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/TanishqGupta22/BridgeLabz-Training
+   ```
+
+2. Open in your preferred IDE  
+3. Navigate topic-wise folders  
+4. Run `.java` files  
+5. Practice and modify code  
+
+---
+
+## 📅 Last Updated
+March 2026  
+
+---
+
+## 👤 Author
+**Tanishq Gupta**
   
    
